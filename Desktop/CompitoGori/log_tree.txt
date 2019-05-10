@@ -1,0 +1,14 @@
+*   2607950 (HEAD -> master) Cancellato colore blu
+|\  
+| * cd9601d (home) Inserito coloro di sfondo blu
+| * 167063d Inserita immagine per la pagina Home
+| *   efaf534 Fusione ramo Contatti
+| |\  
+| | * 46c061c (Contatti) Inserito file css per i widget
+| | * 06fd44e Creata la pagina Contatti
+| * | 2c29636 Creata Pagina Home
+| |/  
+* | 567e622 Inserito coloro di sfondo rosso
+* | 475eb4a Inserita immagine
+|/  
+* e7d16b4 Prima commit

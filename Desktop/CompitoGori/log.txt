@@ -1,0 +1,103 @@
+commit 260795099efcc21b995566ff4826488258c7e828
+Merge: 567e622 cd9601d
+Author: Gori Marco <Gori Marco>
+Date:   Fri May 10 11:47:47 2019 +0200
+
+    Cancellato colore blu
+
+commit cd9601daf255a89fe197a0945b44b6bbabf14c5a
+Author: Gori Marco <Gori Marco>
+Date:   Fri May 10 11:33:47 2019 +0200
+
+    Inserito coloro di sfondo blu
+
+diff --git a/Desktop/CompitoGori/css/style.css b/Desktop/CompitoGori/css/style.css
+index e69de29..57d75d5 100644
+--- a/Desktop/CompitoGori/css/style.css
++++ b/Desktop/CompitoGori/css/style.css
+@@ -0,0 +1 @@
++body{background-color:blue}
+\ No newline at end of file
+
+commit 567e62213005ff32fba43c0e39a088fa594cb100
+Author: Gori Marco <Gori Marco>
+Date:   Fri May 10 11:30:52 2019 +0200
+
+    Inserito coloro di sfondo rosso
+
+diff --git a/Desktop/CompitoGori/css/style.css b/Desktop/CompitoGori/css/style.css
+index e69de29..374db5f 100644
+--- a/Desktop/CompitoGori/css/style.css
++++ b/Desktop/CompitoGori/css/style.css
+@@ -0,0 +1 @@
++body {background-color:red;}
+\ No newline at end of file
+
+commit 167063de8a5f2d0249a01941fe6450d94c58ab2e
+Author: Gori Marco <Gori Marco>
+Date:   Fri May 10 11:28:56 2019 +0200
+
+    Inserita immagine per la pagina Home
+
+diff --git a/Desktop/CompitoGori/img/roba 1.jpg b/Desktop/CompitoGori/img/roba 1.jpg
+new file mode 100644
+index 0000000..60b6488
+Binary files /dev/null and b/Desktop/CompitoGori/img/roba 1.jpg differ
+
+commit efaf534d138ad7d10a9304aeeb6a0ed6a5c1d032
+Merge: 2c29636 46c061c
+Author: Gori Marco <Gori Marco>
+Date:   Fri May 10 11:26:42 2019 +0200
+
+    Fusione ramo Contatti
+
+commit 46c061cf1837f64ea29f11d380f23a552a4da06c
+Author: Gori Marco <Gori Marco>
+Date:   Fri May 10 11:13:13 2019 +0200
+
+    Inserito file css per i widget
+
+diff --git a/Desktop/CompitoGori/css/widget.css b/Desktop/CompitoGori/css/widget.css
+new file mode 100644
+index 0000000..e69de29
+
+commit 06fd44ebafc2bd9d7194781b98151f005b3706d5
+Author: Gori Marco <Gori Marco>
+Date:   Fri May 10 11:11:08 2019 +0200
+
+    Creata la pagina Contatti
+
+diff --git a/Desktop/CompitoGori/contatti.html b/Desktop/CompitoGori/contatti.html
+new file mode 100644
+index 0000000..e69de29
+
+commit 475eb4ab58f2da75d49a5a795d89af2ce75b7ee6
+Author: Gori Marco <Gori Marco>
+Date:   Fri May 10 11:10:00 2019 +0200
+
+    Inserita immagine
+
+diff --git a/Desktop/CompitoGori/img/download (1).jpg b/Desktop/CompitoGori/img/download (1).jpg
+new file mode 100644
+index 0000000..79680fc
+Binary files /dev/null and b/Desktop/CompitoGori/img/download (1).jpg differ
+
+commit 2c29636df5745b2f781812f5d11811c725498e0d
+Author: Gori Marco <Gori Marco>
+Date:   Fri May 10 11:06:32 2019 +0200
+
+    Creata Pagina Home
+
+diff --git a/Desktop/CompitoGori/home.html b/Desktop/CompitoGori/home.html
+new file mode 100644
+index 0000000..e69de29
+
+commit e7d16b4326c28b958d8be2eda8ae767954378db0
+Author: Gori Marco <Gori Marco>
+Date:   Fri May 10 11:03:04 2019 +0200
+
+    Prima commit
+
+diff --git a/Desktop/CompitoGori/css/style.css b/Desktop/CompitoGori/css/style.css
+new file mode 100644
+index 0000000..e69de29
